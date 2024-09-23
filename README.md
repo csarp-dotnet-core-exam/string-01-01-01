@@ -1,6 +1,4 @@
 # Karakterláncok (string)
-Határozza meg szeletelés és string metódusok használata nélkül, hogy a következő szöveg hány szóból áll!
-string=” Ez csattogt, így a sziclire neverető kövence most már hiszkálhatják a csistra anátét, s vele párhuzamosan a katatás mélterjék is szódia felfele.”
 
 Határozza meg szeletelés és string metódusok használata nélkül, hogy a következő szöveg hány zóból áll!
 string=” Ez csattogt, így a sziclire neverető kövence most már hiszkálhatják a csistra anátét, s vele párhuzamosan a katatás mélterjék is szódia felfele.”

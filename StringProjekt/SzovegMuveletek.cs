@@ -2,7 +2,7 @@
 {
     public static class SzovegMuveletek
     {
-        public static int GetHanySzobolAll()
+        public static int GetHanySzobolAll(string szoveg)
         {
             return 0;
         }
